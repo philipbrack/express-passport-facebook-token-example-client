@@ -1,7 +1,7 @@
 {
-  "name": "ng2-facebook-sdk-example",
-  "version": "0.0.0",
-  "license": "MIT",
+  "name": "express-passport-facebook-token-example-client",
+  "version": "0.1.0",
+  "license": "Unlicensed",
   "angular-cli": {},
   "scripts": {
     "ng": "ng",
